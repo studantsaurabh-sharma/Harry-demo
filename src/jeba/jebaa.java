@@ -17,5 +17,6 @@ public class jebaa {
         String[]arr={"apple","banana","mango"};
         ArrayList<String> result =convertToArrayList(arr);
        System.out.println(result);
+       System.out.println("saurabh");
     }
 }
